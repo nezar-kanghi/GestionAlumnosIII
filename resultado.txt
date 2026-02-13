@@ -1,0 +1,7 @@
+ALUMNOS APROBADOS (ordenados por nota media)
+
+María -> 9.1
+Ana -> 8.2
+Juan -> 7.15
+
+Mejor alumno: María (9.1)
